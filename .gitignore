@@ -1,0 +1,6 @@
+echo "config_inc.php
+/vendor/
+/uploads/
+*.log
+*.cache
+" > .gitignore
